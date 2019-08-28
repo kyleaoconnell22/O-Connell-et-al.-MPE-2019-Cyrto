@@ -1,0 +1,341 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=239;
+	taxlabels
+	14090_C_psarops
+	14749_C_semiscinctus
+	14764_C_psarops
+	15841_C_smsp
+	18140_C_kaba
+	18260_C_kapahiang
+	18330_C_lateralis
+	18591_C_Daun
+	18640_C_Daun
+	18642_C_Daun
+	18772_C_lateralis
+	18783_C_lateralis
+	19636_C_agam
+	19830_C_lateralis
+	Agamura_persica
+	Alsophylax_pipiens
+	Altiphylax_stoliczkai
+	Anolis_carolinensis
+	Bunopus_tuberculatus
+	C_Agam_19634
+	C_Agam_19635
+	C_Agam_19694
+	C_adorus
+	C_agusanensi
+	C_angularis
+	C_annandalei
+	C_annulatus
+	C_arcanus
+	C_astrum
+	C_aurensis
+	C_australotitiwangsaensis
+	C_ayeyarwadyensis
+	C_baluensis
+	C_batucolus
+	C_bichnganae
+	C_bintangrendah
+	C_bintangtinggi
+	C_boreoclivus
+	C_brevidactylus
+	C_caovansungi
+	C_capreoloides
+	C_cattienensis
+	C_cavernicolus
+	C_chanhomeae
+	C_chrysopylos
+	C_condorensis
+	C_consobrinus
+	C_cucdongensis
+	C_darmandvillei
+	C_dati
+	C_durio
+	C_eisenmanae
+	C_elok
+	C_epiroticus
+	C_fasciolatum
+	C_feae
+	C_gansi
+	C_grismeri
+	C_guakanthanensis
+	C_gubernatoris
+	C_gunungsenyumensis
+	C_hidupselamanya
+	C_hontreensis
+	C_hoskini
+	C_huynhi
+	C_interdigitalis
+	C_intermedius
+	C_irregularis
+	C_jambangan
+	C_jarujini
+	C_jelawangensis
+	C_jellesmae
+	C_kaba_genebank
+	C_khasiensis
+	C_kimberleyensis
+	C_klugei
+	C_langkawiensis
+	C_leegrismeri
+	C_lekaguli
+	C_lenya
+	C_lomyenensis
+	C_loriae
+	C_louisiadensis
+	C_macrotuberculatus
+	C_majulah
+	C_malayanus
+	C_marmoratus
+	C_marmoratus_15932_Java_Jawa_Barat
+	C_martini
+	C_mcdonaldi
+	C_medioclivus
+	C_metropolis
+	C_mimikanus
+	C_murua
+	C_novaeguineae
+	C_oldhami
+	C_pantiensis
+	C_papuensis
+	C_paradoxus
+	C_payacola
+	C_payarhtanensis
+	C_peguensis
+	C_petani
+	C_philippinicus
+	C_phongnhakebangensis
+	C_phuquocensis
+	C_pronarus
+	C_psarops_MZB_9601_Sumatra_Lampung_Ngarip
+	C_psarops_MZB_9686_Sumatra_Lampung_Ngarip
+	C_psarops_MZB_9687_Sumatra_Lampung_Ngarip
+	C_psarops_MZB_9699_Sumatra_Lampung_Ngarip
+	C_psarops_UTA_61579_Sumatra_Lampung_Ngarip
+	C_pseudoquadrivirgatus
+	C_pubisulcus
+	C_pulchellus
+	C_quadrivirgatus
+	C_quadrivirgatus_18659_Aceh
+	C_quadrivirgatus_18711_Kapahiang
+	C_quadrivirgatus_18719_Kapahiang
+	C_quadrivirgatus_18728_Kapahiang
+	C_quadrivirgatus_19024_Aceh
+	C_redimiculus
+	C_rishivalleyensis
+	C_robustus
+	C_rosichonariefi
+	C_rubidus
+	C_russelli
+	C_sadleiri
+	C_salomonensis
+	C_semenanjungensis
+	C_semicinctus_14387_Sumatra_Jambi_Kerinci
+	C_semicinctus_14966_Sumatera_Barat_Pasaman
+	C_semicinctus_MZB_61588_Sumatra_Jambi_Kerinci
+	C_semicinctus_MZB_9703_Sumatra_Jambi_Kerinci
+	C_seribuatensis
+	C_sermowaiensis
+	C_serratus
+	C_sharkari
+	C_slowinskii
+	C_sp_13748_Sumatra_Lampung_Raja_Basa
+	C_sp_13751_Sumatra_Lampung_Pandang_Chermin
+	C_sp_13779_Sumatra_Lampung_Padang_Chermin
+	C_sp_13834_Sumatra_Lampung_Padang_Chermin
+	C_sp_13855_Sumatra_Lampung_Padang_Chermin
+	C_sp_14124_Sumatra_Lampung_Ngarip
+	C_sp_15759_Java_Jawa_Barat
+	C_sp_15784_Java_Jawa_Barat
+	C_sp_15836_Java_Jawa_Barat
+	C_sp_15841_Java_Jawa_Barat
+	C_srilekhae
+	C_sworderi
+	C_takouensis
+	C_tautbatorum
+	C_tebuensis
+	C_thochuensis
+	C_tigroides
+	C_timur
+	C_tiomanensis
+	C_trilatofasciatus
+	C_tripartitus
+	C_tuberculatus
+	C_yangbayensis
+	C_yoshii
+	C_zugi
+	Calodactylodes_illingworthorum
+	Chondrodactylus_fitzsimonsi
+	Chonrodactylus_bibronii
+	Crossobamon_orientalis
+	Cyrtopodion_aravallensis
+	Cyrtopodion_elongatum
+	Cyrtopodion_himalayanum
+	Cyrtopodion_lawderanum
+	Cyrtopodion_mansarulus
+	Cyrtopodion_scabrum
+	Cyrtopodion_tibetanus
+	Diplodactylus_conspicillatus
+	Dixonius_vietnamensis
+	Eublepharis_macularius
+	Geckoella_albofasciatus
+	Geckoella_collegalensis
+	Geckoella_deccanensis
+	Geckoella_jeyporensis
+	Geckoella_nebulosus
+	Geckoella_triedrus
+	Gehyra_australis
+	Gehyra_punctata
+	Gekko_gecko
+	Gekko_monarchus
+	Gekko_smithii
+	Gekko_vittatus
+	Hemidactylus_angulatus
+	Hemidactylus_bowringii
+	Hemidactylus_brasilianus
+	Hemidactylus_craspedotus
+	Hemidactylus_depressus
+	Hemidactylus_fasciatus
+	Hemidactylus_flaviviridis
+	Hemidactylus_frenatus
+	Hemidactylus_garnotii
+	Hemidactylus_giganteus
+	Hemidactylus_gracilis
+	Hemidactylus_karenorum
+	Hemidactylus_leschenaultii
+	Hemidactylus_mabouia
+	Hemidactylus_maculatus
+	Hemidactylus_platyurus
+	Hemidactylus_robustus
+	Hemidactylus_tenkatei
+	Hemidactylus_triedrus
+	Hemidactylus_turcicus
+	Hemiphyllodactylus_aurantiacus
+	Hemiphyllodactylus_yunnanensis
+	Homopholis_walbergii
+	Lepidodactylus_lugubris
+	Lepidodactylus_orientalis
+	Lialis_burtonis
+	Lialis_jicari
+	Lucasium_stenodactylus
+	Luperosaurus_cumingii
+	Mediodactylus_kotschyi
+	Mediodactylus_russowii
+	Microgecko_persicus
+	Nactus_vankampeni
+	Oedura_marmorata
+	Phelsuma_guimbeaui
+	Phelsuma_inexpectata
+	Phylloadactylus_nocticolus
+	Phyllodactylus_xanti
+	Ptyodactylus_guttatus
+	Pygopus_nigriceps
+	Sphaerodactylus_roosevelti
+	Sphaerodactylus_torrei
+	Stenodactylus_slevini
+	Stenodactylus_yemenensis
+	Tarentola_deserti
+	Tenuidactylus_caspius
+	Teratoscincus_przewalskii
+	Tropiocolotes_nubicus
+	Woodworthia_maculatus
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (C_tebuensis:0.079321,(C_sworderi:0.150515,(((((C_tiomanensis:0.274205,((C_rosichonariefi:0.1505,C_majulah:0.207881)[&label=63]:0.045721,(C_pantiensis:0.083997,(C_payacola:0.016809,C_metropolis:0.035034)[&label=100]:0.076368)[&label=100]:0.138286)[&label=100]:0.089603)[&label=99]:0.069046,((C_semenanjungensis:0.214746,(((19636_C_agam:1.0E-6,(C_Agam_19694:1.0E-6,C_Agam_19635:1.0E-6)[&label=67]:1.0E-6)[&label=96]:1.0E-6,C_Agam_19634:1.0E-6)[&label=100]:0.162803,(((C_semicinctus_14387_Sumatra_Jambi_Kerinci:1.0E-6,(14749_C_semiscinctus:0.003304,C_semicinctus_MZB_61588_Sumatra_Jambi_Kerinci:0.010155)[&label=42]:0.001629)[&label=19]:1.0E-6,C_semicinctus_MZB_9703_Sumatra_Jambi_Kerinci:1.0E-6)[&label=37]:1.0E-6,C_semicinctus_14966_Sumatera_Barat_Pasaman:1.0E-6)[&label=100]:0.104652)[&label=76]:0.029283)[&label=84]:0.052785,((C_kaba_genebank:6.11E-4,18140_C_kaba:0.024242)[&label=100]:0.155381,(((C_quadrivirgatus_18659_Aceh:0.050114,(C_quadrivirgatus_18719_Kapahiang:0.018897,(18640_C_Daun:0.006282,(C_quadrivirgatus_19024_Aceh:0.044865,18642_C_Daun:0.00533)[&label=100]:0.013605)[&label=100]:0.040296)[&label=100]:0.054878)[&label=100]:0.101109,((18591_C_Daun:1.0E-6,18260_C_kapahiang:0.002963)[&label=89]:1.0E-6,(C_quadrivirgatus_18711_Kapahiang:0.004596,C_quadrivirgatus_18728_Kapahiang:0.001799)[&label=99]:0.007167)[&label=100]:0.075275)[&label=99]:0.071441,(((C_psarops_MZB_9686_Sumatra_Lampung_Ngarip:1.0E-6,C_psarops_MZB_9687_Sumatra_Lampung_Ngarip:1.0E-6)[&label=97]:0.006995,14090_C_psarops:1.0E-6)[&label=100]:0.018168,(C_psarops_UTA_61579_Sumatra_Lampung_Ngarip:1.0E-6,((C_psarops_MZB_9601_Sumatra_Lampung_Ngarip:1.0E-6,14764_C_psarops:1.0E-6)[&label=82]:1.0E-6,C_psarops_MZB_9699_Sumatra_Lampung_Ngarip:1.0E-6)[&label=45]:1.0E-6)[&label=100]:0.014194)[&label=100]:0.215068)[&label=97]:0.048805)[&label=99]:0.098619)[&label=80]:0.034418)[&label=99]:0.073234,(((C_durio:0.150288,(18330_C_lateralis:1.0E-6,((18772_C_lateralis:1.0E-6,18783_C_lateralis:1.0E-6)[&label=99]:0.005903,19830_C_lateralis:1.0E-6)[&label=66]:0.001254)[&label=100]:0.109114)[&label=100]:0.182879,C_rubidus:0.250025)[&label=38]:0.034356,((((C_pubisulcus:0.243433,((((C_philippinicus:0.216021,C_agusanensi:0.250728)[&label=74]:0.030664,C_redimiculus:0.31743)[&label=47]:0.02964,(C_tautbatorum:0.175573,(C_annulatus:0.125125,C_jambangan:0.092517)[&label=98]:0.072424)[&label=94]:0.108431)[&label=8]:1.0E-6,(C_yoshii:0.188894,(C_aurensis:0.277892,C_baluensis:0.234633)[&label=35]:0.041931)[&label=23]:0.020885)[&label=21]:0.014256)[&label=100]:0.083382,(((C_pseudoquadrivirgatus:0.208592,((C_cattienensis:0.343644,((C_cucdongensis:0.124206,(C_martini:0.144775,C_yangbayensis:0.039828)[&label=80]:0.036718)[&label=100]:0.107659,((C_takouensis:0.11841,(C_dati:0.039677,C_huynhi:0.039838)[&label=100]:0.172073)[&label=53]:0.012884,C_irregularis:0.248915)[&label=41]:0.014927)[&label=49]:0.030409)[&label=19]:0.009353,C_caovansungi:0.319593)[&label=48]:0.029467)[&label=100]:0.127652,(C_malayanus:0.104887,(C_cavernicolus:0.080924,C_consobrinus:0.014608)[&label=100]:0.112408)[&label=100]:0.216916)[&label=84]:0.03809,((C_eisenmanae:0.209771,(C_grismeri:0.220548,((C_leegrismeri:0.003966,C_thochuensis:0.031424)[&label=100]:0.062612,(C_paradoxus:0.012648,C_condorensis:0.016752)[&label=100]:0.038175)[&label=100]:0.159249)[&label=100]:0.02913)[&label=100]:0.116439,(((Geckoella_triedrus:0.407952,(((Geckoella_jeyporensis:0.251536,Geckoella_nebulosus:0.283798)[&label=61]:0.040166,(Geckoella_collegalensis:0.085863,(C_srilekhae:0.08028,C_rishivalleyensis:0.07126)[&label=99]:0.049175)[&label=100]:0.283409)[&label=100]:0.144765,(Geckoella_deccanensis:0.066413,Geckoella_albofasciatus:0.080079)[&label=100]:0.373132)[&label=98]:0.058517)[&label=80]:0.034444,(((C_elok:0.29551,C_interdigitalis:0.23014)[&label=100]:0.245992,((C_astrum:0.133845,(C_lekaguli:0.064773,C_langkawiensis:0.121804)[&label=64]:0.009246)[&label=100]:0.067058,((C_timur:0.07101,(C_jelawangensis:0.048177,C_hidupselamanya:0.033476)[&label=95]:0.050388)[&label=100]:0.144248,((C_bintangrendah:0.110474,C_bintangtinggi:0.06792)[&label=86]:0.03196,(((C_sharkari:9.08E-4,C_trilatofasciatus:0.040894)[&label=100]:0.073681,C_australotitiwangsaensis:0.047677)[&label=98]:0.037342,(C_pulchellus:0.065089,C_macrotuberculatus:0.084623)[&label=96]:0.05016)[&label=77]:0.015216)[&label=100]:0.074447)[&label=61]:0.02058)[&label=100]:0.220373)[&label=66]:0.038641,((((C_serratus:0.277565,C_loriae:0.222041)[&label=79]:0.087696,((((C_salomonensis:0.131363,((C_epiroticus:0.07039,C_louisiadensis:0.126843)[&label=100]:0.070313,(C_tripartitus:0.048014,C_murua:0.074546)[&label=100]:0.120407)[&label=90]:0.006485)[&label=99]:0.059787,(C_klugei:0.146202,C_robustus:0.114946)[&label=100]:0.056573)[&label=100]:0.062524,C_arcanus:0.269887)[&label=47]:0.017055,((C_capreoloides:0.189118,(C_boreoclivus:0.189986,C_medioclivus:0.14657)[&label=100]:0.069945)[&label=76]:0.084218,(C_sermowaiensis:0.317046,((C_mimikanus:0.272129,(C_zugi:0.149451,C_novaeguineae:0.129781)[&label=98]:0.087671)[&label=75]:0.020212,((C_pronarus:0.130602,C_adorus:0.019808)[&label=100]:0.158513,(C_tuberculatus:0.113642,(C_mcdonaldi:0.107469,C_hoskini:0.142145)[&label=100]:0.034975)[&label=100]:0.053575)[&label=100]:0.078809)[&label=76]:0.030457)[&label=22]:0.016488)[&label=7]:0.01906)[&label=36]:0.023338)[&label=95]:0.077393,((C_bichnganae:0.281116,C_tigroides:0.228545)[&label=82]:0.070202,((C_peguensis:0.187761,C_lenya:0.161585)[&label=100]:0.109554,(C_payarhtanensis:0.126617,C_oldhami:0.125486)[&label=100]:0.115914)[&label=95]:0.066148)[&label=100]:0.089215)[&label=40]:0.013057,(C_hontreensis:0.288955,(C_phuquocensis:0.096286,C_intermedius:0.130033)[&label=100]:0.184602)[&label=100]:0.211589)[&label=31]:0.008311)[&label=74]:0.020364)[&label=74]:0.017464,((((Cyrtopodion_tibetanus:0.42292,((((Hemidactylus_craspedotus:0.402581,Hemidactylus_platyurus:0.352057)[&label=99]:0.086355,((Hemidactylus_karenorum:0.288664,Hemidactylus_garnotii:0.241444)[&label=94]:0.019323,Hemidactylus_bowringii:0.286282)[&label=100]:0.133116)[&label=100]:0.353767,((((Hemidactylus_turcicus:0.266354,Hemidactylus_robustus:0.414961)[&label=100]:0.275607,(Hemidactylus_angulatus:0.580099,Hemidactylus_fasciatus:0.50113)[&label=53]:0.069926)[&label=31]:0.028599,(Hemidactylus_brasilianus:0.628996,Hemidactylus_mabouia:0.618894)[&label=97]:0.187143)[&label=30]:0.027167,((((Hemidactylus_tenkatei:0.385044,Hemidactylus_frenatus:0.405678)[&label=19]:0.027373,Hemidactylus_gracilis:0.657749)[&label=90]:0.099508,(Hemidactylus_giganteus:0.413041,(Hemidactylus_flaviviridis:0.295688,Hemidactylus_leschenaultii:0.181634)[&label=100]:0.256435)[&label=97]:0.124376)[&label=99]:0.053514,((Hemidactylus_maculatus:0.216732,Hemidactylus_triedrus:0.325409)[&label=100]:0.105788,Hemidactylus_depressus:0.35931)[&label=100]:0.140045)[&label=99]:0.087915)[&label=62]:0.050033)[&label=100]:0.338216,((((((((Sphaerodactylus_roosevelti:0.466462,Sphaerodactylus_torrei:0.514433)[&label=100]:0.761799,Teratoscincus_przewalskii:0.473107)[&label=93]:0.154232,((Eublepharis_macularius:1.001191,Anolis_carolinensis:3.541509)[&label=52]:0.176269,((Pygopus_nigriceps:0.385341,(Lialis_jicari:0.215913,Lialis_burtonis:0.232954)[&label=100]:0.162214)[&label=100]:0.521022,(Woodworthia_maculatus:0.375383,(Lucasium_stenodactylus:0.41874,(Diplodactylus_conspicillatus:0.564838,Oedura_marmorata:0.460089)[&label=70]:0.121357)[&label=94]:0.180605)[&label=99]:0.229033)[&label=100]:0.825477)[&label=99]:0.212015)[&label=99]:0.189521,(Tarentola_deserti:0.950475,(Ptyodactylus_guttatus:1.137154,(Phyllodactylus_xanti:0.220881,Phylloadactylus_nocticolus:0.291586)[&label=100]:0.849656)[&label=83]:0.13812)[&label=68]:0.120545)[&label=83]:0.163616,(((Gehyra_australis:0.444904,Gehyra_punctata:0.480864)[&label=100]:0.267379,(Hemiphyllodactylus_aurantiacus:0.66743,Hemiphyllodactylus_yunnanensis:0.3569)[&label=99]:0.474217)[&label=73]:0.155688,(((Phelsuma_inexpectata:0.206642,Phelsuma_guimbeaui:0.18683)[&label=100]:1.014519,Homopholis_walbergii:0.700728)[&label=31]:0.049268,(Calodactylodes_illingworthorum:0.942539,(Chondrodactylus_fitzsimonsi:0.559493,Chonrodactylus_bibronii:0.306543)[&label=100]:0.441317)[&label=68]:0.232454)[&label=16]:0.048487)[&label=6]:0.033491)[&label=3]:0.020969,((Microgecko_persicus:0.891164,(Dixonius_vietnamensis:1.000645,Nactus_vankampeni:1.15931)[&label=82]:0.130639)[&label=13]:0.048843,((Gekko_vittatus:0.565034,(Gekko_monarchus:0.540547,(Gekko_smithii:0.138797,Gekko_gecko:0.24231)[&label=100]:0.388456)[&label=60]:0.068804)[&label=73]:0.079948,(Lepidodactylus_orientalis:0.493872,(Lepidodactylus_lugubris:0.548685,Luperosaurus_cumingii:0.688886)[&label=100]:0.046649)[&label=100]:0.181414)[&label=88]:0.143759)[&label=6]:0.041308)[&label=24]:0.053889,Alsophylax_pipiens:0.706991)[&label=98]:0.09179,((((Crossobamon_orientalis:0.484939,Cyrtopodion_aravallensis:0.45596)[&label=64]:0.050301,((((Tenuidactylus_caspius:0.118185,Bunopus_tuberculatus:0.262967)[&label=100]:0.276626,(Cyrtopodion_mansarulus:0.298325,Cyrtopodion_scabrum:0.362434)[&label=100]:0.145428)[&label=53]:0.027482,Cyrtopodion_elongatum:0.395632)[&label=42]:0.026234,Agamura_persica:0.408642)[&label=39]:0.027605)[&label=100]:0.244074,Altiphylax_stoliczkai:0.380354)[&label=78]:0.042599,((Mediodactylus_kotschyi:0.453831,Mediodactylus_russowii:0.637811)[&label=100]:0.164122,(Tropiocolotes_nubicus:0.536865,(Stenodactylus_yemenensis:0.396722,Stenodactylus_slevini:0.472263)[&label=100]:0.268877)[&label=99]:0.206729)[&label=92]:0.088996)[&label=98]:0.195621)[&label=92]:0.062464)[&label=64]:0.041945)[&label=86]:0.127826,(Cyrtopodion_himalayanum:0.083374,Cyrtopodion_lawderanum:0.258123)[&label=100]:0.378038)[&label=99]:0.064731,(((C_slowinskii:0.088678,C_russelli:0.08686)[&label=100]:0.344454,((C_annandalei:0.103287,C_feae:0.101421)[&label=100]:0.408407,(C_gubernatoris:0.572544,(C_brevidactylus:0.34293,((C_khasiensis:0.376117,C_ayeyarwadyensis:0.194592)[&label=78]:0.121496,(C_chrysopylos:0.261414,C_gansi:0.205747)[&label=43]:0.026811)[&label=30]:0.029333)[&label=54]:0.04319)[&label=54]:0.034256)[&label=90]:0.062775)[&label=58]:0.055963,C_fasciolatum:0.38908)[&label=100]:0.118755)[&label=100]:0.082544,((C_chanhomeae:0.208786,C_angularis:0.314517)[&label=95]:0.052495,(C_lomyenensis:0.24812,(C_phongnhakebangensis:0.19419,C_jarujini:0.221421)[&label=36]:0.02455)[&label=75]:0.04678)[&label=100]:0.122393)[&label=97]:0.040843)[&label=100]:0.106353)[&label=34]:0.020584)[&label=33]:0.016071)[&label=45]:0.020314,((C_kimberleyensis:0.173587,((C_seribuatensis:0.07455,C_sadleiri:0.064539)[&label=100]:0.040188,(C_batucolus:0.050734,C_petani:0.067922)[&label=99]:0.039346)[&label=100]:0.105053)[&label=99]:0.056984,(C_jellesmae:0.281155,C_darmandvillei:0.224164)[&label=67]:0.043978)[&label=85]:0.055512)[&label=42]:0.015849,(C_papuensis:0.236554,((C_marmoratus_15932_Java_Jawa_Barat:0.001884,C_marmoratus:1.0E-6)[&label=100]:0.278123,(((C_sp_13834_Sumatra_Lampung_Padang_Chermin:1.0E-6,(C_sp_13779_Sumatra_Lampung_Padang_Chermin:1.0E-6,C_sp_13855_Sumatra_Lampung_Padang_Chermin:1.0E-6)[&label=70]:1.0E-6)[&label=100]:0.038081,(C_sp_13751_Sumatra_Lampung_Pandang_Chermin:1.0E-6,C_sp_13748_Sumatra_Lampung_Raja_Basa:1.0E-6)[&label=100]:0.030157)[&label=100]:0.103862,((C_sp_15836_Java_Jawa_Barat:0.003147,((C_sp_15841_Java_Jawa_Barat:1.0E-6,15841_C_smsp:1.0E-6)[&label=78]:0.001596,C_sp_15784_Java_Jawa_Barat:1.0E-6)[&label=69]:1.0E-6)[&label=63]:0.006373,(C_sp_14124_Sumatra_Lampung_Ngarip:1.0E-6,C_sp_15759_Java_Jawa_Barat:1.0E-6)[&label=98]:1.0E-6)[&label=98]:0.08626)[&label=100]:0.201078)[&label=46]:0.05242)[&label=96]:0.059978)[&label=58]:0.022208)[&label=39]:0.017879)[&label=100]:0.148582,C_quadrivirgatus:0.220348)[&label=100]:0.0949,C_guakanthanensis:0.125671)[&label=47]:0.013882)[&label=100]:0.055728,C_gunungsenyumensis:0.07818);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
